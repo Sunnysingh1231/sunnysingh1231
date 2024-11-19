@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunny Dev</h1>
 <h3 align="center">Passionate backend developer from India. Skilled in Spring Boot, Java, and API development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnysingh1231&label=Profile%20views&color=0e75b6&style=flat" alt="sunnysingh1231" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnysingh1231" alt="sunnysingh1231" /></a> </p>
-
 - 📫 How to reach me **123saktisingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
