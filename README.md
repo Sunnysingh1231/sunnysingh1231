@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Dev</h1>
 <h3 align="center">Passionate backend developer from India. Skilled in Spring Boot, Java, and API development.</h3>
 
-<img align="center" src="[https://in.images.search.yahoo.com/search/images;_ylt=AwrPrW7cvjxn2fslN0a9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANBS1k3b1J3T1NzZVNJWmRwV2JHNTFBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE5BHF1ZXJ5A2FuaW1hdGVkJTIwY29kaW5nJTIwZ2lmBHRfc3RtcAMxNzMyMDM0MzU2?p=animated+coding+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN885G0#id=72&iurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&action=click](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="sunnysingh1231" />
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 
 https://in.images.search.yahoo.com/search/images;_ylt=AwrPrW7cvjxn2fslN0a9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANBS1k3b1J3T1NzZVNJWmRwV2JHNTFBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE5BHF1ZXJ5A2FuaW1hdGVkJTIwY29kaW5nJTIwZ2lmBHRfc3RtcAMxNzMyMDM0MzU2?p=animated+coding+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210IN885G0#id=72&iurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&action=click
 
