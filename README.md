@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunny Dev</h1>
+<h1 align="center">Hi 🙏, I'm Sunny Dev</h1>
 <h3 align="center">Passionate backend developer from India. Skilled in Spring Boot, Java, and API development.</h3>
 
 ![logo](https://media2.giphy.com/media/MYI6NK4JOGpOzOriEg/200.gif?cid=790b76115f25b69a0a459e43cc457a25c7bab12a4ee474af&rid=200.gif&ct=g)
