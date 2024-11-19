@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunny Dev</h1>
 <h3 align="center">Passionate backend developer from India. Skilled in Spring Boot, Java, and API development.</h3>
 
-![logo](https://github.com/Sunnysingh1231/sunnysingh1231/blob/main/api-c99e353f761d318322c853c03ebcf21b.gif)
+![logo](https://github.com/Sunnysingh1231/sunnysingh1231/blob/main/tumblr_ngy9vsbJna1qav3uso1_500-500x239.gif)
 
 
     
