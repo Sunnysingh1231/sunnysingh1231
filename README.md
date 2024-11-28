@@ -46,5 +46,5 @@
 <a href="https://instagram.com/s.d_4522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.d_4522" height="30" width="40" /></a>
 </p>
 
-<img align="center" height="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzYWJoMmR5N2Q3bnlrc292c3B0bnVtM3l6eHN1aDJ0M2czZW4zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pk5380DaHclgnO9ucv/giphy.gif" alt="">
+<img height="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzYWJoMmR5N2Q3bnlrc292c3B0bnVtM3l6eHN1aDJ0M2czZW4zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pk5380DaHclgnO9ucv/giphy.gif" alt="">
 
